@@ -1,0 +1,49 @@
+[
+    {
+    "id": 1,
+    "name": "Apple Pen",
+    "price": 50,
+    "image": "https://www.gigantti.fi/image/dv_web_D180001002178817/15110/apple-pencil-2.jpg?$prod_all4one$"
+    },
+
+    
+    {
+        "id": 2,
+        "name": "Sukka",
+        "price": 12,
+        "image": "https://static.punomo.fi/uploads/2016/05/sukka_valmis_iso.gif"        
+    },
+    {
+        "id": 3,
+        "name": "Vyö",
+        "price": 12,
+        "image": ""        
+    },
+    {
+        "id": 4,
+        "name": "Viiksi",
+        "price": 12,
+        "image": ""        
+    },
+    {
+        "id": 5,
+        "name": "Taikina",
+        "price": 1324,
+        "image": ""        
+    },
+    {
+        "id": 6,
+        "name": "Maria Veitola",
+        "price": 3662,
+        "image": ""        
+    },
+    {},
+    {},
+    {},
+    {},
+    {}
+
+
+
+
+]
